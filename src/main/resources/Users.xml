@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<users>
+
+  <!--password for admin: 123q456q-->
+  <user>
+    <login>admin</login>
+    <password>c17b8410d4b4efd5ff527ce116f08ee2c072e0ae</password>
+    <role>ADMIN</role>
+  </user>
+
+  <!--password for admin: qwerty123-->
+  <user>
+    <login>user</login>
+    <password>5cec175b165e3d5e62c9e13ce848ef6feac81bff</password>
+    <role>USER</role>
+  </user>
+
+</users>
+

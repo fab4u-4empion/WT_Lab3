@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+
+    <student>
+        <name>Nikita</name>
+        <surname>Kolodko</surname>
+        <grade-book-number>95100121</grade-book-number>
+        <speciality>ПОИТ</speciality>
+        <gender>MALE</gender>
+        <birthday>05.08.2001</birthday>
+    </student>
+
+    <student>
+        <name>Vlad</name>
+        <surname>Kostyan</surname>
+        <grade-book-number>95100100</grade-book-number>
+        <speciality>ПОИТ</speciality>
+        <gender>MALE</gender>
+        <birthday>05.08.2001</birthday>
+    </student>
+
+    <student>
+        <name>Vlad</name>
+        <surname>Kabral</surname>
+        <grade-book-number>95100050</grade-book-number>
+        <speciality>ПОИТ</speciality>
+        <gender>MALE</gender>
+        <birthday>05.08.2001</birthday>
+    </student>
+
+</students>
